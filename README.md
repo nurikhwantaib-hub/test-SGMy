@@ -25,3 +25,10 @@ Conducting testing, learning, and exploratory activities
 Notes
 
 The source code for the main system is not publicly accessible and therefore is not included in this repository.
+
+## Internal Repository Reference
+
+The main source code and active development for this project are maintained in an internal GitLab repository managed by the Ministry of Education Malaysia (KPM). Access to this repository is restricted due to security and confidentiality requirements.
+
+Internal GitLab (KPM):
+https://gitlab.moe.gov.my/bpg/sgmy
